@@ -3,3 +3,4 @@ wget --no-check-certificate "https://github.com/mishakorzik/mishakorzik.menu.io/
 mv 'iphack.zip?raw=true' iphack.zip
 unzip iphack.zip
 echo 'move the iphack folden to the /site-packages/ folder'
+
